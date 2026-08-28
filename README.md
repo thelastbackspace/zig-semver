@@ -1,5 +1,7 @@
 # semver
 
+[![CI](https://github.com/thelastbackspace/zig-semver/actions/workflows/ci.yml/badge.svg)](https://github.com/thelastbackspace/zig-semver/actions/workflows/ci.yml)
+
 Semantic version parsing, comparison, and range matching.
 
 ```zig
